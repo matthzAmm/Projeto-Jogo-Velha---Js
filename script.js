@@ -12,6 +12,7 @@ let secondPlayer;
 // counter
 
 // test
+//test 04
 
 let player1 = 0;
 let player2 = 0;
