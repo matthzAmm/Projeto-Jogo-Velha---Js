@@ -10,9 +10,7 @@ let messageText = document.querySelector("#message-over p");
 let secondPlayer;
 
 // counter
-
-// test
-//test 04
+// 2.0
 
 let player1 = 0;
 let player2 = 0;
