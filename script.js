@@ -12,9 +12,6 @@ let secondPlayer;
 // counter
 // 2.0
 
-// test
-// test2
-
 let player1 = 0;
 let player2 = 0;
 
